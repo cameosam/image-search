@@ -1,1 +1,3 @@
-## (BTS) Image Search Application
+## (BTS) Image Search
+
+Available at: https://bts-image-search.herokuapp.com/
